@@ -29,18 +29,25 @@ h2 {
   font-size: 1.5rem;
   width: 40%;
   margin: 0 auto;
+  padding: 50px 0;
 }
 
 .main_page {
-  width: 80%;
+  width: 70%;
   margin: 0 auto;
+}
+
+.offer_page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .offer_header {
   text-align: center;
   padding: 50px 0;
   width: 50%;
-  margin: 0 auto;
 }
 
 .offer_header h1 {
@@ -49,4 +56,14 @@ h2 {
 
 .offer_header p {
   font-size: 1.5rem;
+}
+
+.offer_photos {
+  display: flex;
+  justify-content: center;
+}
+
+.offer_photos img {
+  width: 25%;
+  padding: 0 17px;
 }

@@ -30,3 +30,23 @@ h2 {
   width: 40%;
   margin: 0 auto;
 }
+
+.main_page {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.offer_header {
+  text-align: center;
+  padding: 50px 0;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.offer_header h1 {
+  font-size: 3rem;
+}
+
+.offer_header p {
+  font-size: 1.5rem;
+}

@@ -67,3 +67,17 @@ h2 {
   width: 25%;
   padding: 0 17px;
 }
+
+.offer_text {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  width: 82%;
+}
+
+.container1,
+.container2 {
+  width: 45%;
+  padding: 80px 0;
+}
